@@ -1,0 +1,44 @@
+#centrado {
+    margin:10px auto;
+    display:block;
+}
+
+#centerFormulary {
+    margin:10px auto;
+    display:block;
+}
+.wrapper {
+  width:100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.wrapper2 {
+  width:100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.centro{
+  text-align: center
+}
+/* footer {
+  min-height: 70px;
+  background-color: #5e5d5d;
+  background-image: -moz-linear-gradient(top, #191919, #5e5d5d);
+  background-image: -o-linear-gradient(top, #191919,#5e5d5d);
+  background-image: -webkit-linear-gradient(#191919,#5e5d5d);
+  background-image: linear-gradient( #191919,#5e5d5d);
+  border-top: 1px solid rgba(50, 50, 50, 0.3);
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;     
+} */
+body {
+  margin: 0;
+  margin-bottom: 100px;
+  min-height: 100%;
+  padding-top: 25px;
+}
